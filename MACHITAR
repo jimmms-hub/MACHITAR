@@ -1,0 +1,10 @@
+#include <iostream>
+
+int main() {
+  std::cout<< "JJJJJJJJJJJ               MMM            MMM\n";
+  std::cout<< "    JJJ                   MMM MMM   MMM  MMM\n";
+  std::cout<< "    JJJ                   MMM  MMM MMM   MMM\n";
+  std::cout<< "    JJJ                   MMM    MMM     MMM\n";
+  std::cout<< "JJJ JJJ                   MMM            MMM\n";
+  
+}
